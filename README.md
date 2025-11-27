@@ -1,4 +1,4 @@
-Nomes dos integrantes:
+Nomes dos integrantes
 
 Daniel de Oliveira Cardoso Prieto 11251103847
 Eduardo Valadão Maciel 11251104046
